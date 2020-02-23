@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a61a186-93b2-4f44-a85f-de0e6cac26e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y8lJBDcvaY5z5PPXcQzEKcCaAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\React-Code\stock-price-checker\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="Jest.Test the formatter function.should return formatted currency">
+    <configuration name="Pages.should render the 404 Error Message" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/index.test.js" />
+      <test-names>
+        <test-name value="Pages" />
+        <test-name value="should render the 404 Error Message" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Pages.should render the details component with proper data" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/index.test.js" />
+      <test-names>
+        <test-name value="Pages" />
+        <test-name value="should render the details component with proper data" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Pages.should render the details component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/index.test.js" />
+      <test-names>
+        <test-name value="Pages" />
+        <test-name value="should render the details component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Pages.should render without throwing an error" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/index.test.js" />
+      <test-names>
+        <test-name value="Pages" />
+        <test-name value="should render without throwing an error" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test the formatter function.should return formatted currency" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/helper.test.js" />
+      <test-names>
+        <test-name value="Test the formatter function" />
+        <test-name value="should return formatted currency" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Test the formatter function.should return formatted currency" />
+        <item itemvalue="Jest.Pages.should render the 404 Error Message" />
+        <item itemvalue="Jest.Pages.should render the details component with proper data" />
+        <item itemvalue="Jest.Pages.should render the details component" />
+        <item itemvalue="Jest.Pages.should render without throwing an error" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a61a186-93b2-4f44-a85f-de0e6cac26e1" name="Default Changelist" comment="" />
+      <created>1582332027307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582332027307</updated>
+      <workItem from="1582332030999" duration="6462000" />
+      <workItem from="1582397435741" duration="6439000" />
+      <workItem from="1582413896042" duration="597000" />
+      <workItem from="1582414511014" duration="10379000" />
+      <workItem from="1582481648812" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="-878" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582482165318">
+      <screen x="-369" y="-1080" width="2560" height="1040" />
+    </state>
+    <state x="447" y="-878" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-369.-1080.2560.1040@-369.-1080.2560.1040" timestamp="1582482165318" />
+    <state x="408" y="132" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582335571264" />
+    <state width="1259" height="143" key="GridCell.Tab.0.bottom" timestamp="1582425126304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582425126304" />
+    <state width="1259" height="143" key="GridCell.Tab.0.center" timestamp="1582425126304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582425126304" />
+    <state width="1259" height="143" key="GridCell.Tab.0.left" timestamp="1582425126304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582425126304" />
+    <state width="1259" height="143" key="GridCell.Tab.0.right" timestamp="1582425126304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582425126304" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1582423290533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1582423290533" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582423006144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582423006144" />
+  </component>
+</project>

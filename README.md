@@ -1,30 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
-
+This is a simple Stock Info finder app. User can search the price and basic info of the stock by just typing the stock symbol. The App uses the api from <a href="https://iexcloud.io">iexcloud</a> to search the stock information.
 ## Getting Started
 
-First, run the development server:
+<h4>Pre Requisite API keys </h4> 
+You need to register for a free account with <a href="https://iexcloud.io">iexcloud</a> and get your api tokens. There are two tokens that you would require - 
+<ul>
+  <li>Api token for Production</li>
+  <li>Api token for Sandbox</li>
+</ul>
+Once you have the api token, you need to create the <strong>'.env'</strong> in the root of the project and copy the content of the <strong>'.env-example'</strong> file and substitute the value with your token.
+
+<h4>Install Dependencies</h4>
+
+```bash
+npm install
+```
+
+<h4>First, local run</h4>
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
-
+This will start a local server at port 3000.
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<h4>Run Test </h4>
 
-## Learn More
+```bash
+npm run test
+```
 
-To learn more about Next.js, take a look at the following resources:
+<h4>Production Build</h4>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
+Static Export
 
-## Deploy on ZEIT Now
+```bash
+npm run build
+npm run export
+```
+This will create a 'out' folder in the root directory which could be hosted on any server.
 
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
+## Tech Stack
+<ul>
+  <li>React - Frontend Framework.</li>
+  <li>Ant Design - UI/UX components.</li>
+  <li>Jest - Testing.</li>
+  <li>Typescript - For static typing and type checks.</li>
+  <li>Axios - For ajax requests.</li>
+</ul>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

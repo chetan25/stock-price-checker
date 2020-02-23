@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "tests": 1,
+    "passes": 1,
+    "failures": 0,
+    "duration": 5834,
+    "start": "2020-02-23T02:01:04.319Z",
+    "end": "2020-02-23T02:01:10.153Z"
+  },
+  "failures": [],
+  "passes": [
+    {
+      "title": "should return formatted currency",
+      "fullTitle": "Test the formatter function should return formatted currency",
+      "duration": 1993,
+      "errorCount": 0
+    }
+  ],
+  "skipped": []
+}

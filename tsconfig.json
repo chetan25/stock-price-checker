@@ -1,0 +1,69 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "Root/*": [
+        "./*"
+      ],
+      "Assets/*": [
+        "./assets/*"
+      ],
+      "Components/*": [
+        "./components/*"
+      ],
+      "Services/*": [
+        "./services/*"
+      ],
+      "Pages/*": [
+        "./pages/*"
+      ],
+      "Test/*": [
+        "./__tests__/*"
+      ]
+    },
+    "typeRoots": ["types"],
+    "types": ["jest", "node", "enzyme", "antd"],
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "lib": [
+      "dom",
+      "es2017"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "importHelpers": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules",
+    "build",
+    ".next",
+    "./*.jsx",
+    "./*.js"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "node_modules/@types"
+  ]
+}

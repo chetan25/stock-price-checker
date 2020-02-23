@@ -1,0 +1,36 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./"],
+      "alias": {
+        "Root": ["./"],
+        "Assets": "./assets",
+        "Components": "./components",
+        "Services": "./services",
+        "Pages": "./pages",
+        "Test": "./__tests__"
+      }
+    }],
+    ["import", {
+      "libraryName": "antd"
+    }],
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "decoratorsBeforeExport": true
+      }
+    ],
+    ["@babel/plugin-proposal-class-properties"]
+  ],
+  "env": {
+    "testing": {
+      "plugins": [
+        ["dynamic-import-node"]
+      ]
+    }
+  }
+}
